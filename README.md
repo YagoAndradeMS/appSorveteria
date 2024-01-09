@@ -1,1 +1,1 @@
-Um app que simula um cadastro que lhe gera um desconto
+Um app que simula um cadastro que resulta na geração de um desconto
